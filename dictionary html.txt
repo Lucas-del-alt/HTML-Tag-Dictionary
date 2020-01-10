@@ -1,0 +1,32 @@
+h1: header tag, titles headings
+
+ex:<h1>Lucas</h1>
+
+h2: smaller header tag (h1-h6), good for subheadings
+
+a: "anchor" makes link clickable
+attributes: href
+ex: <a href="link">
+
+img: attaches an image
+attributes: src
+ex: <img src="frog.jpg"> 
+
+li: makes a list, can be only be used alongside ol or ul
+
+<li> playing video games</li>
+
+ol: makes an ordered list, must be used alongside li
+
+<ol><li>homework</li><ol>
+
+p: makes a paragraph/ block of text
+
+<p> aaaaaa </p>
+
+ul: makes a bulleted list, must be used alongside li
+
+<ul><li>videogames</li><ul>
+
+
+
